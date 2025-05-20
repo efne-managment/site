@@ -60,6 +60,11 @@ h1, h2, h3, h4, h5, h6 {
       background-color: #eee;
       margin-top: 2rem;
       font-size: 0.9rem;
+
+        a {
+            color: #004aad;
+            text-decoration: none;
+        }
     }
 
     .features {
